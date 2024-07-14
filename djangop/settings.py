@@ -27,7 +27,6 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['cyberbharat.azurewebsites.net', 'localhost']
 
-
 # Application definition
 
 INSTALLED_APPS = [
